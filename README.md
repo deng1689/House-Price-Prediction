@@ -1,4 +1,4 @@
-# House-Price-Prediction
+# House Price Prediction
 
 # Exploring our data and visulization
 # Train and create a Linear Regression Model
