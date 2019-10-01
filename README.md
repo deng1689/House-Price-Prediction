@@ -18,9 +18,10 @@ We are going to take advantage of all of the feature variables available to use 
 We are going to break everything into logical steps that allow us to ensure the cleanest, most realistic data for our model to make accurate predictions from.
 
 Load Data and Packages:
-1.Analyzing the Test Variable (Sale Price)
-2.Multivariable Analysis
-3.Impute Missing Data and Clean Data
-4.Feature Transformation/Engineering
-5.Modeling and Predictions
+
+#1.Analyzing the Test Variable (Sale Price)
+#2.Multivariable Analysis
+#3.Impute Missing Data and Clean Data
+#4.Feature Transformation/Engineering
+#5.Modeling and Predictions
 
